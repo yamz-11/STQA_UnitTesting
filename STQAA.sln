@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STQAA", "STQAA\STQAA.csproj", "{4069BCB5-6BF3-4A45-B803-6002F68E20B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STQAATests", "STQAATests\STQAATests.csproj", "{A8B6C763-1920-4551-B581-D2A3C22056A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4069BCB5-6BF3-4A45-B803-6002F68E20B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4069BCB5-6BF3-4A45-B803-6002F68E20B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4069BCB5-6BF3-4A45-B803-6002F68E20B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4069BCB5-6BF3-4A45-B803-6002F68E20B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B6C763-1920-4551-B581-D2A3C22056A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B6C763-1920-4551-B581-D2A3C22056A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B6C763-1920-4551-B581-D2A3C22056A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B6C763-1920-4551-B581-D2A3C22056A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F8E69D-91A7-4DE4-9AA8-0E42A021C9FE}
+	EndGlobalSection
+EndGlobal
